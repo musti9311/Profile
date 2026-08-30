@@ -72,5 +72,5 @@ IBM Data Science Professional Certificate capstone: Toronto neighborhood cluster
 
 I'm actively seeking opportunities in **ERP implementation, AI automation, and business intelligence** across Saudi Arabia's enterprise landscape.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mustafa-ali-khan-2120b3278)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaalikhan2570@gmail.com)
