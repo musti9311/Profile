@@ -25,6 +25,12 @@ Full-stack AI-powered ERP assistant with natural language querying. Ask question
 
 `FastAPI` `React 19` `TypeScript` `PostgreSQL` `ChromaDB` `Docker`
 
+### [ZATCA E-Invoicing Compliance & Analytics](https://github.com/musti9311/zatca-einvoicing-compliance-analytics)
+
+ZATCA Phase 2 compliance pipeline simulating 25,000 invoices across 4 Saudi branches — 13-check Python validation engine, analyst Excel workbook (Power Query + Pivot Tables), and a 4-page Power BI dashboard with drill-through investigation.
+
+`Python` `Pandas` `Power BI` `DAX` `Power Query` `Excel` `Data Analytics`
+
 ### [Jeddah Supply Chain Analytics](https://github.com/musti9311/Jeddah-Supply-Chain-Analytics-ETL-Pipeline-BI-Dashboard)
 
 End-to-end supply chain BI for Jeddah ports: Power BI dashboard for procurement KPIs + Python ETL pipeline with synthetic last-mile delivery cost analysis.
@@ -72,5 +78,5 @@ IBM Data Science Professional Certificate capstone: Toronto neighborhood cluster
 
 I'm actively seeking opportunities in **ERP implementation, AI automation, and business intelligence** across Saudi Arabia's enterprise landscape.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mustafa-ali-khan-2120b3278)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ali-khan-2120b3278)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaalikhan2570@gmail.com)
