@@ -9,27 +9,27 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-📍 **Jeddah, Saudi Arabia** · ERP · AI Automation · Business Intelligence · Enterprise Software
+📍 **Jeddah, Saudi Arabia** · CS Grad · Data & Automation · Software & IT · 
 
 ---
 
-Building enterprise tools that bridge the gap between operational data and actionable insights. I focus on **AI-powered ERP systems, supply chain analytics, and business intelligence** — with a particular emphasis on the Saudi Arabian market.
+
 
 ---
 
 ## 🚀 Featured Projects
-
-### [Enterprise ERP AI Assistant](https://github.com/musti9311/Enterprise-ERP-AI-Assistant)
-
-Full-stack AI-powered ERP assistant with natural language querying. Ask questions, run reports, submit leave requests, and file IT tickets — all in plain English.
-
-`FastAPI` `React 19` `TypeScript` `PostgreSQL` `ChromaDB` `Docker`
 
 ### [ZATCA E-Invoicing Compliance & Analytics](https://github.com/musti9311/zatca-einvoicing-compliance-analytics)
 
 ZATCA Phase 2 compliance pipeline simulating 25,000 invoices across 4 Saudi branches — 13-check Python validation engine, analyst Excel workbook (Power Query + Pivot Tables), and a 4-page Power BI dashboard with drill-through investigation.
 
 `Python` `Pandas` `Power BI` `DAX` `Power Query` `Excel` `Data Analytics`
+
+### [Enterprise ERP AI Assistant](https://github.com/musti9311/Enterprise-ERP-AI-Assistant)
+
+Full-stack AI-powered ERP assistant with natural language querying. Ask questions, run reports, submit leave requests, and file IT tickets — all in plain English.
+
+`FastAPI` `React 19` `TypeScript` `PostgreSQL` `ChromaDB` `Docker`
 
 ### [Jeddah Supply Chain Analytics](https://github.com/musti9311/Jeddah-Supply-Chain-Analytics-ETL-Pipeline-BI-Dashboard)
 
@@ -55,7 +55,7 @@ IBM Data Science Professional Certificate capstone: Toronto neighborhood cluster
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Python, TypeScript, SQL, DAX |
+| **Languages** | Python, TypeScript, SQL, C++, Java |
 | **Backend** | FastAPI, SQLAlchemy, Alembic, Uvicorn |
 | **Frontend** | React 19, Vite, TanStack Query, Tailwind CSS |
 | **Databases** | PostgreSQL, ChromaDB (vector), SQLite |
@@ -75,8 +75,6 @@ IBM Data Science Professional Certificate capstone: Toronto neighborhood cluster
 ---
 
 ## 📫 Let's Connect
-
-I'm actively seeking opportunities in **ERP implementation, AI automation, and business intelligence** across Saudi Arabia's enterprise landscape.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ali-khan-2120b3278)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaalikhan2570@gmail.com)
