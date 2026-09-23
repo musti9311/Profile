@@ -19,6 +19,12 @@
 
 ## 🚀 Featured Projects
 
+### [ERPNext KSA Compliance Demo](https://github.com/musti9311/erpnext-ksa-compliance-demo)
+
+Self-taught ERPNext v16 on Docker: ZATCA e-invoicing QR + clearance lifecycle, GOSI/EOSB payroll for 10 staff, 7 procurement controls stress-tested 29 ways, bilingual invoice, one-command rebuild anyone can verify.
+
+`ERPNext` `Frappe` `Python` `SQL` `ZATCA` `Docker` `MariaDB`
+
 ### [ZATCA E-Invoicing Compliance & Analytics](https://github.com/musti9311/zatca-einvoicing-compliance-analytics)
 
 ZATCA Phase 2 compliance pipeline simulating 25,000 invoices across 4 Saudi branches — 13-check Python validation engine, analyst Excel workbook (Power Query + Pivot Tables), and a 4-page Power BI dashboard with drill-through investigation.
@@ -62,6 +68,7 @@ IBM Data Science Professional Certificate capstone: Toronto neighborhood cluster
 | **BI & Analytics** | Power BI, Power Query, DAX |
 | **ML & AI** | scikit-learn, TensorFlow/Keras, NLTK, sentence-transformers |
 | **Infrastructure** | Docker, Docker Compose |
+| **ERP & Compliance** | ERPNext, Frappe, ZATCA, GOSI |
 | **Tools** | Git, Jupyter, Pytest |
 
 ---
